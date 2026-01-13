@@ -52,6 +52,7 @@ namespace coffee_machine_api
                     return Results.StatusCode(503);
                 }
 
+
                 return Results.Ok(new
                 {
                     message = "Your piping hot coffee is ready",
