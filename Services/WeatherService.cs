@@ -11,5 +11,6 @@
             // Mocked temperature for demo / test purposes
             return 32.0;
         }
+
     }
 }
